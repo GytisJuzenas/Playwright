@@ -1,0 +1,13 @@
+{
+  "name": "Playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GytisJuzenas/Playwright.git",
+  "author": "Gytis Juzenas <123413853+GytisJuzenas@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.8"
+  },
+  "scripts": {}
+}
